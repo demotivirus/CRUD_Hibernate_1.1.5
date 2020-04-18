@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="CRUD_JDBC" />
+        <module name="CRUD_Hibernate_v2" />
+        <module name="CRUD_Hibernate" />
+        <module name="CRUD_Hibernate_1.1.5" />
+        <module name="CRUD" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>
